@@ -4,9 +4,9 @@ API для проекта Posts Service
 Также в проекте реализована возможность создавать новые посты, группы и коментарии обращаясь к API.
 
 ## Стек использованных технологий
-- Python
-- Django
-- Django REST framework
+- Python 3.9
+- Django 3.2.16
+- Django REST framework 3.12.4
 
 ## Как запустить проект:
 
